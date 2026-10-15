@@ -1,1 +1,1 @@
-window.API_BASE = "https://h9-invest-sii.onrender.com";
+export const API_BASE_URL = 'https://h9-invest-sii.onrender.com';
